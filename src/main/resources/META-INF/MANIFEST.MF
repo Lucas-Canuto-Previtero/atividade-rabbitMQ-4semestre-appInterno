@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: school.sptech.AtividadeRabbitMq4semestreAppInternoApplicatio
+ n
+

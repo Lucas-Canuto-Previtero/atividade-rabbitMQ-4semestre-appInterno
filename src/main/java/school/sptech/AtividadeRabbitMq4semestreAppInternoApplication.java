@@ -1,4 +1,4 @@
-package school.sptech.atividade_rabbitMQ_4semestre_appInterno;
+package school.sptech;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
